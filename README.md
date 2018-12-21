@@ -1,3 +1,6 @@
+## Archived Project
+Please note that this project is archived and read-only.
+
 #hadrian
 
 A set of utilities used to build a Hadoop cluster with management tools.  The overall goal of this project is to allow rapid spin up of a variety of big data distributed systems on either physical or virtual platforms.
